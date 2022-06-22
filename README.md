@@ -19,6 +19,6 @@ Hi, I'm Davey! I'm a software engineer who is passionate about making open-sourc
 
 Find me around the web 🌎:
 <!-- - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾 -->
-<!-- - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓 -->
-- Providing open-source projects <a href="https://www.github.com/d4v3y/">GitHub</a> 🛠
-- Sharing updates on <a href="https://www.linkedin.com/in/davey-a/">LinkedIn</a> 💼
+- Landing Page <a href="https://d4v3y.github.io"> Website</a> 📹
+- Providing open-source projects <a href="https://www.github.com/d4v3y/"> GitHub</a> 🛠
+- Sharing updates on <a href="https://www.linkedin.com/in/davey-a/"> LinkedIn</a> 💼
