@@ -11,7 +11,6 @@ Hi, I'm Davey! I'm a software engineer who is passionate about making open-sourc
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/-Python-lime?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 
----
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4v3y&show_icons=true&hide_border=true) -->
 
