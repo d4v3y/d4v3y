@@ -13,7 +13,7 @@ Hi, I'm Davey! I'm a software engineer who is passionate about making open-sourc
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4v3y&show_icons=true&hide_border=true)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4v3y&show_icons=true&hide_border=true) -->
 
 ---
 
